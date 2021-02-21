@@ -5,7 +5,9 @@ import { Component } from '@angular/core';
   templateUrl: './SuccessAlert.component.html',
   styles : [`
   p {
-    color: green;
+    background-color: green;
+    padding: 20px;
+    border: 1px solid green;
   }`]
 })
 
